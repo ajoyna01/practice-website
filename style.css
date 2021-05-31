@@ -1,0 +1,76 @@
+body {
+    background: rgb(163, 219, 215);
+  } 
+  <head>
+  <link rel="stylesheet" href="style.css">
+  <title>My Website</title>
+</head>
+}
+div {
+    display: block;
+    width: 8em;
+    margin-left: 20em;
+    margin-right: 20em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+    padding: 30px;
+    
+    }
+h1 {
+    width: 8em;
+    margin-left: 20em;
+    margin-right: 20em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+    padding: 30px;
+    border: rgb(102, 0, 51) dotted;
+        border-top-color: rgb(102, 0, 51);
+        border-top-style: dotted;
+        border-top-width: initial;
+        border-right-color: rgb(102, 0, 51);
+        border-right-style: dotted;
+        border-right-width: initial;
+        border-bottom-color: rgb(102, 0, 51);
+        border-bottom-style: dotted;
+        border-bottom-width: initial;
+        border-left-color: rgb(102, 0, 51);
+        border-left-style: dotted;
+        border-left-width: initial;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+  }
+h2 {
+    width: 8em;
+    margin-left: 20em;
+    margin-right: 20em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+    padding: 30px;
+    border: rgb(102, 0, 51) dotted;
+    border-top-color: rgb(102, 0, 51);
+    border-top-style: dotted;
+    border-top-width: initial;
+    border-right-color: rgb(102, 0, 51);
+    border-right-style: dotted;
+    border-right-width: initial;
+    border-bottom-color: rgb(102, 0, 51);
+    border-bottom-style: dotted;
+    border-bottom-width: initial;
+    border-left-color: rgb(102, 0, 51);
+    border-left-style: dotted;
+    border-left-width: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+
+
